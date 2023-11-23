@@ -1,0 +1,76 @@
+
+<margin-top>
+<div style="text-align:center;"><img img style="width:30%"  src="NCC logo.png"></div>
+
+<div style="text-align:center; margin-top:40px;">
+<div style="text-align:center; margin-top:40px;">
+
+<a style="font-size:20px;  background-color:white; padding-right:20px; color:Black;"href="a">Home</a>
+
+<a style="font-size:20px;  background-color:white; padding-right:20px; color:Black;"href="a">Camps</a>
+
+<a style="font-size:20px;  background-color:white; padding-right:20px; color:Black;"href="a">Ranks</a></div>
+
+
+
+
+<h1 style="font-size:35px; text-align:center;">"The National Cadet Corps"</h1>
+ 
+
+<hr>
+<div style=" text-align:center; "><img style="width:50%"; src="NCC ranks.webp"> </div><br>
+<h2style="font-size:35px; text-align:center;"> Senior Under Officer</h2>
+<p "font-size:25px; text-align:center;"> Senior Under Officer:Highest cadet rank, responsible for leadership and guidance.</p>
+
+<hr>
+
+<p   "font-size:25px; text-align:center;"> Senior Under Officer:Highest cadet rank, responsible for leadership and guidance.</p>
+
+<hr>
+
+<h2style="font-size:35px; text-align:center;"> Senior Under Officer</h2>
+<p"font-size:25px; text-align:center;"> Senior Under Officer:Highest cadet rank, responsible for leadership and guidance.</p> 
+
+<hr>
+<h2style="font-size:35px; text-align:center;"> Senior Under Officer</h2>
+<p"font-size:25px; text-align:center;"> Senior Under Officer:Highest cadet rank, responsible for leadership and guidance.</p>
+
+<hr>
+<h2style="font-size:35px; text-align:center;"> Senior Under Officer</h2>
+
+<p "font-size:25px; text-align:center;"> Senior Under Officer:Highest cadet rank, responsible for leadership and guidance.</p>
+
+<h2style="font-size:35px; text-align:center;"> Senior Under Officer</h2>
+<p "font-size:25px; text-align:center;"> Senior Under Officer:Highest cadet rank, responsible for leadership and guidance.</p>
+
+<h2style="font-size:35px; text-align:center;"> Senior Under Officer</h2>
+<p "font-size:25px; text-align:center;"> Senior Under Officer:Highest cadet rank, responsible for leadership and guidance.</p>
+
+<h2style="font-size:35px; text-align:center;"> Senior Under Officer</h2>
+<p "font-size:25px; text-align:center;"> Senior Under Officer:Highest cadet rank, responsible for leadership and guidance.</p>
+
+<h2style="font-size:35px; text-align:center;"> Senior Under Officer</h2>
+
+<p "font-size:25px; text-align:center;"> Senior Under Officer:Highest cadet rank, responsible for leadership and guidance.</p>
+
+
+
+
+<hr>
+<div style="text-align:center;"><a style="font-size:25px; text-align:center; background-color:red; 
+padding:15px 15px 15px; color:white;" href=" "> Read more.</a></div>
+
+<h5 style="text-align:center;font-family:cursive;font-size:30px;">NCC:"
+Know more Know better"</h5> 
+
+<video sec="  Ranks in NCC _ Rank Structure and Benefits - YouTube.html" controls autoplay>
+
+
+
+
+
+
+
+
+
+
